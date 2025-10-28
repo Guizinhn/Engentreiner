@@ -1,0 +1,41 @@
+{
+  "name": "magic-patterns-vite-template",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=18.18 <23"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.2",
+    "lucide-react": "^0.441.0",
+    "framer-motion": "^11.5.4",
+    "react-countup": "^6.5.3",
+    "react-intersection-observer": "^9.13.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.18",
+    "@types/react": "^18.3.1",
+    "@types/react-dom": "^18.3.1",
+    "eslint": "^9.12.0",
+    "@eslint/js": "^9.12.0",
+    "typescript-eslint": "^8.11.0",
+
+    "@vitejs/plugin-react": "^4.3.1",
+    "typescript": "^5.5.4",
+    "vite": "^5.2.0",
+    "tailwindcss": "3.4.17",
+    "autoprefixer": "latest",
+    "postcss": "latest",
+    "eslint-plugin-react-hooks": "^5.0.0",
+    "eslint-plugin-react-refresh": "^0.4.12"
+  }
+}
