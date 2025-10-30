@@ -3,7 +3,7 @@ import { ArrowLeft, Check, Users, ShieldCheck, Clock } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
 import imagemQuatro from '../../images/imagemQuatro.jpg'
-import imageSete from '../../imagesadjusted/imageSete.jpg'
+import imageSete from '../../imagesadjusted/ImageSete.jpg'
 
 const Workforce = () => {
   return <div className="w-full">

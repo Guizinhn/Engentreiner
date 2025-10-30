@@ -2,7 +2,7 @@ import React from 'react';
 import { ArrowLeft, Check } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
-import training from '../../imagesadjusted/imageQuatro.jpg'
+import training from '../../imagesadjusted/ImageQuatro.jpg'
 
 const OperationTraining = () => {
   return <div className="w-full">

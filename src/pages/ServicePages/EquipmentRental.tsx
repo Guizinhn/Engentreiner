@@ -3,7 +3,7 @@ import { ArrowLeft, Check, Truck, Shield, Clock } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
 import imagemSeis from '../../images/imagemSeis.jpg'
-import imageTres from '../../imagesadjusted/imageTres.jpg'
+import imageTres from '../../imagesadjusted/ImageTres.jpg'
 
 const EquipmentRental = () => {
   return <div className="w-full">

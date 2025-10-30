@@ -2,7 +2,7 @@ import React, { memo } from 'react';
 import { ArrowLeft, Check, FileText, Search, FileCheck } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
-import imageDezeseis from '../../imagesadjusted/imageDezeseis.jpg'
+import imageDezeseis from '../../imagesadjusted/ImageDezeseis.jpg'
 import imageUm from '../../imagesadjusted/imageUm.jpg'
 
 const ProjectsReports = () => {

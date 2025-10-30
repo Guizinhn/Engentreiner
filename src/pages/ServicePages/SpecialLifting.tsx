@@ -3,7 +3,7 @@ import { ArrowLeft, Check } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
 import imagemCinco from '../../images/imagemCinco.jpg'
-import imageSeis from '../../imagesadjusted/imageSeis.jpg'
+import imageSeis from '../../imagesadjusted/ImageSeis.jpg'
 
 const SpecialLifting = () => {
   return <div className="w-full">
