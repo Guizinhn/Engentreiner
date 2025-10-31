@@ -34,7 +34,7 @@ const FloatingButtons = () => {
     }
   };
   return <div className="fixed right-6 bottom-6 z-50 flex flex-col gap-4">
-      <motion.a href="https://instagram.com" target="_blank" rel="noopener noreferrer" className="group relative flex items-center justify-center w-14 h-14 bg-gradient-to-tr from-purple-600 to-pink-500 rounded-full shadow-lg hover:shadow-xl transition-all duration-300" aria-label="Instagram" initial="initial" animate="animate" variants={floatAnimation} whileHover={{
+      <motion.a href="https://www.instagram.com/engetrainer?igsh=cnVlMTEzMDFkZm9i&utm_source=qr" target="_blank" rel="noopener noreferrer" className="group relative flex items-center justify-center w-14 h-14 bg-gradient-to-tr from-purple-600 to-pink-500 rounded-full shadow-lg hover:shadow-xl transition-all duration-300" aria-label="Instagram" initial="initial" animate="animate" variants={floatAnimation} whileHover={{
       scale: 1.1
     }} whileTap={{
       scale: 0.9

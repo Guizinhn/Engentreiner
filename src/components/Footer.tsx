@@ -12,7 +12,7 @@ const Footer = () => {
               treinamentos.
             </p>
             <div className="flex space-x-4">
-              <a href="https://instagram.com/otavioo.elias" target="_blank" rel="noopener noreferrer" className="text-white hover:text-[#eb0808] transition-colors">
+              <a href="https://www.instagram.com/engetrainer?igsh=cnVlMTEzMDFkZm9i&utm_source=qr" target="_blank" rel="noopener noreferrer" className="text-white hover:text-[#eb0808] transition-colors">
                 <Instagram size={24} />
               </a>
               <a href="https://wa.me/5511996853405" target="_blank" rel="noopener noreferrer" className="text-white hover:text-[#eb0808] transition-colors">
