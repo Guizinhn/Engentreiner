@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 import { ChevronDown } from 'lucide-react';
 import { useReducedMotion } from '../providers/ReducedMotionProvider';
 import { fadeIn, fadeUp, floatY, buttonHover, buttonTap } from '../utils/motion';
-import bgImage from '../images/imagemUm.png';
+import bgImage from '../images/Imagme fundo home .jpg';
 
 const HeroSection: React.FC = () => {
   const { shouldReduceMotion } = useReducedMotion();
