@@ -152,7 +152,7 @@ const Workforce = () => {
           obra especializada, com profissionais qualificados e prontos para
           integrar sua equipe.
         </p>
-        <a href="https://wa.me/5511987396856?text=Olá,%20gostaria%20de%20informações%20sobre%20fornecimento%20de%20mão%20de%20obra" target="_blank" rel="noopener noreferrer" className="inline-block bg-[#eb0808] hover:bg-[#d10707] text-white font-medium py-3 px-8 rounded-md transition-colors duration-300">
+        <a href="https://wa.me/5511996853405?text=Olá,%20gostaria%20de%20informações%20sobre%20fornecimento%20de%20mão%20de%20obra" target="_blank" rel="noopener noreferrer" className="inline-block bg-[#eb0808] hover:bg-[#d10707] text-white font-medium py-3 px-8 rounded-md transition-colors duration-300">
           Solicitar profissionais
         </a>
       </div>

@@ -44,7 +44,7 @@ const FloatingButtons = () => {
           Siga nosso Instagram
         </motion.span>
       </motion.a>
-      <motion.a href="https://wa.me/5511987396856?text=Olá,%20gostaria%20de%20falar%20com%20um%20especialista%20da%20Engetrainer" target="_blank" rel="noopener noreferrer" className="group relative flex items-center justify-center w-14 h-14 bg-green-500 rounded-full shadow-lg hover:shadow-xl transition-all duration-300" aria-label="WhatsApp" initial={{
+      <motion.a href="https://wa.me/5511996853405?text=Olá,%20gostaria%20de%20falar%20com%20um%20especialista%20da%20Engetrainer" target="_blank" rel="noopener noreferrer" className="group relative flex items-center justify-center w-14 h-14 bg-green-500 rounded-full shadow-lg hover:shadow-xl transition-all duration-300" aria-label="WhatsApp" initial={{
       y: 100,
       opacity: 0
     }} animate={{
