@@ -5,7 +5,7 @@ import { motion, useScroll, useTransform } from 'framer-motion';
 import { useReducedMotion } from '../providers/ReducedMotionProvider';
 
 //import logo from '../images/logo_engetrainer-semFundo.png'
-import logo from '../images/logo_engtrainerAtt.png'
+import logo from '../images/logo_engetrainer-semFundo.png'
 
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
