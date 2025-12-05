@@ -88,7 +88,7 @@ const Footer = () => {
             </ul>
           </div>
           <div>
-            <h3 className="text-xl font-bold mb-4">Contato</h3>
+            <h3 className="text-xl font-bold mb-4">Contatos</h3>
             <p className="text-gray-300 mb-2">
               (11) 99685-3405
             </p>
